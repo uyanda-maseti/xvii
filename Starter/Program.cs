@@ -1,3 +1,3 @@
 using System;
-Console.WriteLine("King!");
+Console.WriteLine("KING | SON | HOLY");
 Console.WriteLine("Kingdom!");
